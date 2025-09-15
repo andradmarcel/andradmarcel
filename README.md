@@ -39,7 +39,7 @@
 
 ## 📬 Contato
 
-[LinkedIn](https://www.linkedin.com/in/seuusuario) • [E-mail](mailto:seu@email.com)
+[LinkedIn](https://www.linkedin.com/in/andradmarcel/) • [E-mail](mailto:luismarcel402@gmail.com)
 
 ---
 
