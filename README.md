@@ -43,7 +43,3 @@
 
 ---
 
-<details>
-  <summary>✨ Veja meus Certificados</summary>
-  💡 Em breve vou compartilhar meu certificado da Udemy e outros aqui!
-</details>
