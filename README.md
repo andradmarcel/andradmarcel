@@ -1,12 +1,10 @@
 # Marcel Andrade
 
-Estudante de Engenharia de Software | Desenvolvedor Python em Formação | Apaixonado por Soluções de Back-End e Automação
+Estudante de Engenharia de Software | Python | Back-End | Automação | Em transição de carreira
 
 ### ✉️ Sobre mim
 
-- Sempre em busca de novos desafios e aprendizados.
-- Otaku e gamer nas horas vagas. 🎮
-
+Sou estudante de Engenharia de Software (Estácio, 2025-2029) em transição de carreira, apaixonado por soluções de back-end, automação e inteligência artificial. Trago experiência prévia em vendas, onde desenvolvi comunicação estratégica, resiliência e foco em resultados — habilidades que aplico no desenvolvimento de projetos de tecnologia. Sempre em busca de novos desafios e aprendizados.
 
  ###   Contact me
 
@@ -20,8 +18,18 @@ Estudante de Engenharia de Software | Desenvolvedor Python em Formação | Apaix
 • **Bacharelado em Engenharia de Software** | Estácio de Sá  
 _Início: 2025 · Previsão de Conclusão: 2029_
 
+• **Inglês:** Intermediário (boa capacidade de conversação e compreensão, permitindo a participação em reuniões e a leitura de documentações técnicas).
+
 ---
-## 🏅 Certificações
+### Soft Skills
+
+- Comunicação clara e persuasiva
+- Resiliência e foco em metas
+- Trabalho em equipe e adaptabilidade
+- Pensamento analítico e resolução de problemas
+
+---
+### 🏅 Certificações
 
 - **Imersão Dev Agentes de IA Google – Alura**  
   Emitido em: setembro de 2025  
@@ -36,7 +44,9 @@ _Início: 2025 · Previsão de Conclusão: 2029_
 ---
 ### 📌 Projetos em Destaque
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andradmarcel&repo=imersao_dev_IA_alura&bg_color=1d2a42&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/andradmarcel/imersao_dev_IA_alura)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andradmarcel&repo=imersao_dev_IA_alura&bg_color=1d2a42&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/andradmarcel/imersao_dev_IA_alura) 
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andradmarcel&repo=projeto_sistema_bancario_DIO&bg_color=1d2a42&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/andradmarcel/projeto_sistema_bancario_DIO)
 
 ---
 ### 🛠️ Tecnologias e Ferramentas
@@ -76,6 +86,3 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 </table>
 
 ---
-
-
-
