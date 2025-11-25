@@ -44,9 +44,9 @@ _Início: 2025 · Previsão de Conclusão: 2029_
 ---
 ### 📌 Projetos em Destaque
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andradmarcel&repo=imersao_dev_IA_alura&bg_color=1d2a42&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/andradmarcel/imersao_dev_IA_alura) 
+[![Repo Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=andradmarcel&repo=imersao_dev_IA_alura&bg_color=1d2a42&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/andradmarcel/imersao_dev_IA_alura) 
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=andradmarcel&repo=projeto_sistema_bancario_DIO&bg_color=1d2a42&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/andradmarcel/projeto_sistema_bancario_DIO)
+[![Repo Card](https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=andradmarcel&repo=projeto_sistema_bancario_DIO&bg_color=1d2a42&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)](https://github.com/andradmarcel/projeto_sistema_bancario_DIO)
 
 ---
 ### 🛠️ Tecnologias e Ferramentas
@@ -77,10 +77,10 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado e estudado:
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=andradmarcel&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=andradmarcel&show_icons=true&theme=tokyonight" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andradmarcel&layout=compact&theme=tokyonight" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andradmarcel&layout=compact&theme=tokyonight" />
     </td>
   </tr>
 </table>
